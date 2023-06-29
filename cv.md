@@ -16,9 +16,12 @@ I want to try smth new, to have a flexible schedule of work to enjoy my life and
 
 
 # Skills
-Unfotrunatelly, none.
 
-I only start to get knowledge about frontend dev. Hope in some month i will upload my new CV.
+Adobe Photoshop
+Adobe Illustrator
+Figma (in process)
+Git, GitHub (in process)
+HTML (in process)
 
 # Education
 
@@ -31,9 +34,25 @@ I only start to get knowledge about frontend dev. Hope in some month i will uplo
 
 * RS School course (stage0)
 
-# Experience
+# Example ot the code (trying to code while doing a 4 days intensive)
 
-I use Photoshop, Illustrator, watching and practising to create smth in Figma.
+```
+<section class="main">
+    <div class="container">
+        <div class="main-info">
+            <h1 class="main-title">Аренда премиальных автомобилей</h1>
+            <div class="main-text">
+                В нашем клубе имеется солидная коллекция спортивных автомобилей — от достаточно распространенных
+                серийных машин до настоящего гоночного эксклюзива. Воспользуйтесь уникальной возможностью побывать за
+                рулем настоящей легенды и узнать, на что она способна за пределами гоночной трассы!
+            </div>
+            <div class="main_action">
+                <button class="button">Посмотреть автомобили</button>
+            </div>
+        </div>
+    </div>
+</section>
+```
 
 # Languages
 
