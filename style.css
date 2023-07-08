@@ -50,8 +50,8 @@
 
 .left-column img {
     margin: 30px 10px 10px 10px;
-    width: 50%;
-    height: 50%;
+    width: 90%;
+    height: 90%;
     border-radius: 50%;
     vertical-align: baseline;
 }
@@ -60,7 +60,7 @@
 border: 1px solid black;
 color: white;
 background-color: rgb(58, 22, 53);
-z-index: -1;
+
 font-size: 25px;
 margin: 40px 30% 40px 30%;
 }
